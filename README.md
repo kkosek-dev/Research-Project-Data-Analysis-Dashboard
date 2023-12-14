@@ -25,6 +25,6 @@ The data source for this project comes from the Public Science Lab at North Caro
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. JavaScript webpage script is being kept [here](static/js/app.js).
-3. Our visualizations and output are being kept [here](index.html) within this repo.    
+3. Our HTML script is being kept [here](index.html).    
 4. The deployment link for our project is [https://kkosek-dev.github.io/belly-button-challenge/](https://kkosek-dev.github.io/belly-button-challenge/).
    
